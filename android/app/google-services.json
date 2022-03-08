@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "585578341634",
+    "firebase_url": "https://faktoring-eksenet.firebaseio.com",
+    "project_id": "faktoring-eksenet",
+    "storage_bucket": "faktoring-eksenet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585578341634:android:91ce6d74ccf0b9035a4e1b",
+        "android_client_info": {
+          "package_name": "com.istiklal.faktoring_hesap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585578341634-kc0dpp42f83mrcrkefptvron5fgm58oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC5O7KspQD5FNb4TTMdR9UyhNTp1_KZPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585578341634-kc0dpp42f83mrcrkefptvron5fgm58oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
